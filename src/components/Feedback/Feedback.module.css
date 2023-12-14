@@ -1,0 +1,16 @@
+.container {
+  margin-left: 26px;
+}
+.btnContainer {
+  display: flex;
+  gap: 10px;
+}
+.button {
+  height: 22px;
+  cursor: pointer;
+  background-color: #fff;
+  border-radius: 5px;
+}
+.item {
+  list-style: none;
+}
